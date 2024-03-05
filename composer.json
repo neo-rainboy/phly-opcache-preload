@@ -1,5 +1,5 @@
 {
-    "name": "neo-rainboy/phly-opcache-preload",
+    "name": "phly/phly-opcache-preload",
     "description": "Create opcache preload rules for an application",
     "license": "BSD-3-Clause",
     "keywords": [
