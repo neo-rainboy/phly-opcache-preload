@@ -13,7 +13,7 @@
         "forum": "https://discourse.laminas.dev/"
     },
     "require": {
-        "php": "~7.4.4",
+        "php": "^8.2.0",
         "ocramius/package-versions": "^1.8",
         "symfony/console": "^4.1 || ^5.0"
     },
